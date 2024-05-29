@@ -1,0 +1,6 @@
+@DotByDot.API_HostAddress = http://localhost:5121
+
+GET {{DotByDot.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
